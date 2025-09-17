@@ -68,14 +68,14 @@ const jarode = {
 </div>
 
 --- -->
-
+<!-- 
 ## 🏆 Trophées GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jarode-P&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
----
+--- -->
 
 ## 🐍 Contribution Snake
 
