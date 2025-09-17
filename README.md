@@ -13,11 +13,9 @@
   <img src="https://img.shields.io/github/followers/Jarode-P?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
 </div>
 
----
-
 ## 🚀 À propos de moi
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const jarode = {
@@ -40,9 +38,7 @@ const jarode = {
     funFact: "J'adore résoudre des problèmes complexes avec du code élégant!"
 };
 ```
-
----
-
+ -->
 ## 🛠️ Technologies & Outils
 
 <div align="center">
