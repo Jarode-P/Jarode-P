@@ -38,6 +38,14 @@ const jarode = {
 };
 ```
  -->
+Je suis actuellement en 3ème année de BUT MMI (Métiers du Multimédia et de l'Internet) à l'IUT. Passionné par le développement web et la création numérique ! 
+
+Quelques infos basiques sur moi :
+- J'ai 20 ans
+- J'aime le design, la programmation et les jeux vidéo
+- Je travaille souvent en équipe et j'aime partager mes connaissances
+- Je suis curieux, motivé et toujours prêt à découvrir de nouveaux outils
+
 ## 🛠️ Technologies & Outils
 
 <div align="center">
