@@ -4,15 +4,15 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Bienvenue sur mon profil GitHub !
+  Welcome to my GitHub profile!
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jarode-P&label=Visiteurs&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Jarode-P&label=Visitors&color=58A6FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Jarode-P?label=Followers&style=for-the-badge&color=58A6FF" alt="followers" />
 </div>
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
 <!-- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -38,19 +38,19 @@ const jarode = {
 };
 ```
  -->
-Je suis actuellement en 3ème année de BUT MMI (Métiers du Multimédia et de l'Internet) à l'IUT. Passionné par le développement web et la création numérique ! 
+I'm currently in my 3rd year of BUT MMI (Multimedia and Internet Technology) at IUT. Passionate about web development and digital creation!
 
-Quelques infos basiques sur moi :
-- J'ai 20 ans
-- J'aime le design, la programmation et les jeux vidéo
-- Je travaille souvent en équipe et j'aime partager mes connaissances
-- Je suis curieux, motivé et toujours prêt à découvrir de nouveaux outils
+Some basic info about me:
+- I'm 20 years old
+- I love design, programming and video games  
+- I often work in teams and enjoy sharing my knowledge
+- I'm curious, motivated and always ready to discover new tools
 
-## 🛠️ Technologies & Outils
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-### 💻 Langages de programmation
+### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -106,12 +106,13 @@ Quelques infos basiques sur moi :
 
 --- -->
 
-## 📫 Me contacter
+## 📫 Contact Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](fr.linkedin.com/in/jarode-pottin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pottinjarode.com)
+
 </div>
 
 ---
